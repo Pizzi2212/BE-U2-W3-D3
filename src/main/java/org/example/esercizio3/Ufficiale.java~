@@ -1,0 +1,4 @@
+package org.example.esercizio3;
+
+public abstract class Ufficiale {
+}
