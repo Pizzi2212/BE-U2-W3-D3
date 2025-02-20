@@ -17,6 +17,6 @@ public class Main {
         colonnello.setSuperiore(generale);
 
         // Test verifica stipendio
-        tenente.verificaStipendio(2500);
+        tenente.verificaStipendio(250);
     }
 }
